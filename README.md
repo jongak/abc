@@ -54,13 +54,15 @@ push <br> pull <br><br> 원격저장소 <br><br><br>pull
 온라인 상에서 Git의 ***버전 관리 기능***을 사용할 수 있습니다.
 
 ## 7. 소스코드
-~~~
+```
   <script>
     let a=10;
     let b=20;
   </script>
-~~~
+```
 
+## 8. 링크주소
+<https://www.multicampus.com/>
 
 
 
