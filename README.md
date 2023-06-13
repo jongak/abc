@@ -44,7 +44,7 @@ push <br> pull <br><br> 원격저장소 <br><br><br>pull
 
 ## 5. 순서 없는 목록 <!-- + 또는 - 또는 * -->
 - 원격저장소
-- puxh, pull
+  - puxh, pull
 - 현업하기
 
 ## 6. 텍스트 꾸미기
